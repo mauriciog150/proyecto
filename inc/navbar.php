@@ -1,6 +1,6 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item" href="https://bulma.io">
+    <a class="navbar-item" href="index.php?vista=home">
       <img src="./img/Logo_Aterrizar.jpeg" width="150" height="50">
     </a>
 
