@@ -1,7 +1,7 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item" href="index.php?vista=home">
-      <img src="./img/Logo_Aterrizar.jpeg" width="150" height="50">
+      <img src="./img/Logo_Aterrizar.jpg" width="150" height="50">
     </a>
 
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">

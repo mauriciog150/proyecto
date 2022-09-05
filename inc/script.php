@@ -21,6 +21,4 @@ $navbarBurgers.forEach( el => {
 
 });
 </script>
-<script>
-    src= "./js/ajax.js"
-</script>
+<script src="./js/ajax.js"></script>
